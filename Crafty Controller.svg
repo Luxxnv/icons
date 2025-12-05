@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 425 425"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="crafty-controller.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.7364706"
+     inkscape:cx="212.5"
+     inkscape:cy="212.5"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <path
+     fill="hsl(160, 59%, 45%)"
+     d="m162.5 182.5 38-15q0-40-40-40h-95q-40 0-40 40v90q0 40 40 40h95q40 0 40-40l-38-20v28h-100v-108h100z"
+     id="path1"
+     style="fill:#d8dee9;fill-opacity:1" />
+  <path
+     fill="hsl(192, 99%, 45%)"
+     d="m262.5 182.5-38-15q0-40 40-40h95q40 0 40 40v90q0 40-40 40h-95q-40 0-40-40l38-20v28h100v-108h-100z"
+     id="path2"
+     style="fill:#d8dee9;fill-opacity:1" />
+  <path
+     fill="hsl(266, 71%, 57%)"
+     d="M142.5 191.5q-10 0-10 10v19q0 10 10 10h140q10 0 10-10v-19q0-10-10-10z"
+     id="path3"
+     style="fill:#d8dee9;fill-opacity:1" />
+</svg>
